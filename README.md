@@ -23,7 +23,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This is my a 3d portfolio
+A 3D portfolio built with React, Vite.js, and Three.js, showcasing innovative projects and skills through immersive, interactive visualizations. Designed for speed, creativity, and seamless user experience.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -35,7 +35,7 @@ This is my a 3d portfolio
 
 ## <a name="about_repo">🔋 About Repo</a>
 
-👉 **A Unique 3D Portfolio**: .
+👉 **A Unique 3D Portfolio**: A 3D portfolio built with React, Vite.js, and Three.js, showcasing innovative projects and skills through immersive, interactive visualizations. Designed for speed, creativity, and seamless user experience.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
