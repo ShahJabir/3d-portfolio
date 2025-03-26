@@ -1,33 +1,121 @@
-# 🏠 Daniel's Award-Winning Home Office Portfolio 💼
+![#D Portfolio](public/media/bannar.png?raw=true "Page screenshot")
 
-**[Live site](https://daniels-architects.com/)**
+<h1 align="center">3D Portfolio</h1>
 
-This repo contains code of Daniel's [Award-Winning](https://www.cssdesignawards.com/sites/daniels-architects/47206/) Home Office Portfolio. You can learn how to create a porfolio like this [here](https://youtu.be/aNJN8h_QsPA)!!! Get the Blender files from my [Google Drive](https://drive.google.com/file/d/1i8vPLDbOWoC_U8DXnRTY_-FqcOF3w0SO/view?usp=sharing).
+<div align="center">
 
-![Page screenshot](public/media/og-image.webp?raw=true "Page screenshot")
+⚡️ [![GitHub](https://img.shields.io/github/license/ShahJabir/3d-portfolio?color=blue)](https://github.com/ShahJabir/3d-portfolio/blob/main/LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/ShahJabir/3d-portfolio)
+![GitHub forks](https://img.shields.io/github/forks/ShahJabir/3d-portfolio)
 
-# Updates!!!
+</div>
 
-- Overlay component split into two useEffects for gsap set not triggering edge case.
-- Updated video texture to useVideoTexture from React Three Drei but still encountered duplicate loads and switched to global window object storage. Kind of a hack but it works LOL. Will update if I figure out issue.
+## 📋 <a name="table">Table of Contents</a>
 
-# 🪵 Resources mentioned 🪨
+🤖 [Introduction](#introduction)
+⚙️ [Tech Stack](#tech-stack)
+🔋 [About Repo](#about_repo)
+🤸 [Quick Start](#quick-start)
+🚀 [Author](#authors)
+🚀 [Status](#status)
+📄 [License](#license)
+🎁 [Acknowledgments](#acknowledgments)
 
-- [Nukleos (mesh cleanup Blender addon)](https://www.youtube.com/watch?v=fTYhSvOolvk)
-- [Mesh Repair](https://extensions.blender.org/add-ons/mesh-repair-tools/)
-- [Clean Mesh Converter](https://nanomanpro.gumroad.com/l/sxerq)
-- [UVPACKMASTER3](https://uvpackmaster.com/)
-- [SimpleBake](https://blendermarket.com/products/simplebake---simple-pbr-and-other-baking-in-blender-2)
+## <a name="introduction">🤖 Introduction</a>
 
-# Credits!!! 💖
+This is my a 3d portfolio
 
-- [Image by Marc Mueller](https://www.pexels.com/photo/man-sitting-in-front-of-computer-380769/)
-- [Image by Daniel McCullough](https://unsplash.com/photos/person-drafting-on-blueprint--FPFq_trr2Y)
-- [Image by R ARCHITECTURE](https://unsplash.com/photos/black-wooden-table-and-chairs-wDDfbanbhl8)
-- [Blender asset pack referral link](https://blendermarket.com/products/interior-models?ref=603)
-- [Oscarherry3d's keyboard](https://sketchfab.com/3d-models/keyboard-66f5ca31bf154c82ae5284a32a362a4e)
-- [LagzDesign's mouse](https://sketchfab.com/3d-models/computer-mouse-low-poly-95eb7d0363bb4db79bd50168280ea1c7)
-- [Spookyghostboo's books](https://sketchfab.com/3d-models/variety-of-books-9ecd80af3b7e4cd59efb4c141511a55b)
-- [Naira's books and magazines](https://sketchfab.com/3d-models/books-and-magazines-d0b76eada5bd495abcdfb2b20e6f7ee6)
-- [Mfb64's vogue magazines](https://sketchfab.com/3d-models/vogue-magazines-bf47eea601784059aa52f2929a0c9ada)
-- [Igrium's water bottle](https://sketchfab.com/3d-models/water-bottle-885543a7679c4026abbd6499185caf08)
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+  <div>
+  <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/-Kaboom_JS-black?style=for-the-badge&logoColor=white&logo=kaboom&color=cc425e" alt="Kaboom JS" />
+  </div> <br/>
+
+## <a name="about_repo">🔋 About Repo</a>
+
+👉 **A Unique 3D Portfolio**: .
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites 📋**
+
+You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
+
+```
+node@v20.17.0 or higher
+npm@9.9.3 or higher
+git@2.46.0 or higher
+```
+
+---
+
+**Cloning the Repository**
+
+From your command line, first clone Simplefolio:
+
+<!-- # Clone the repository -->
+
+```bash
+# Clone the repository
+$ git clone https://github.com/ShahJabir/2d-portfolio
+```
+
+<!-- # Move into the repository -->
+
+```bash
+# Move into the repository
+$ cd 3d-portfolio
+```
+
+**Installation and Running the Project**
+
+<!-- # Remove the current origin repository -->
+
+```bash
+# Remove the current origin repository
+$ git remote remove origin
+```
+
+After that, you can install the dependencies either using NPM .
+
+Using NPM: Simply run the below commands.
+
+```bash
+# Fix Dependencies
+$ npm audit --fix
+```
+
+```bash
+# Install dependencies
+$ npm install
+```
+
+```bash
+# Start the development server
+$ npm run dev
+```
+
+Once your server has started, go to this url `http://localhost:{PORT}/` to see the portfolio locally.
+
+## <a name="authors"> Author </a>
+
+<p align="center">
+<a href="https://shahjabir.com.bd">
+<img src="https://img.shields.io/badge/Website-ShahJabir-black" alt="Facebook" /></a>
+<a href="https://github.com/ShahJabir">
+<img src="https://img.shields.io/badge/Github-ShahJabir-white" alt="Facebook" /></a>
+<a href="https://www.facebook.com/shah.jabir.90">
+<img src="https://img.shields.io/badge/Facebook-ShahJabir-blue" alt="Facebook" /></a>
+<a href="https://x.com/TaqiJabir">
+<img src="https://img.shields.io/badge/X-TaqiJabir-black" alt="Twitter" />
+<a href="https://www.linkedin.com/in/shah-jabir-taqi-a63653211/">
+<img src="https://img.shields.io/badge/Linkedin-shahjabirtaqi-blue" alt="Linkedin" /></a>
+</a>
+</p>
+
+## <a name="status"> Status</a>
+
+[![Deploy static content to Pages](https://github.com/ShahJabir/3d-portfolio/actions/workflows/main.yml/badge.svg)](https://github.com/ShahJabir/3d-portfolio/actions/workflows/main.yml)
