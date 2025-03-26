@@ -29,7 +29,8 @@ This is my a 3d portfolio
 
   <div>
   <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/-Kaboom_JS-black?style=for-the-badge&logoColor=white&logo=kaboom&color=cc425e" alt="Kaboom JS" />
+  <img src="https://img.shields.io/badge/-REACT_JS-black?style=for-the-badge&logoColor=61DAFB&logo=react&color=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=black&logo=threedotjs&color=white" alt="Three JS" />
   </div> <br/>
 
 ## <a name="about_repo">🔋 About Repo</a>
