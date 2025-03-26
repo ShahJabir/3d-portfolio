@@ -119,4 +119,4 @@ Once your server has started, go to this url `http://localhost:{PORT}/` to see t
 
 ## <a name="status"> Status</a>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6e438efa-ded0-483f-8e8f-5049b711e168/deploy-status)](https://app.netlify.com/sites/3d-shahjabir/deploys)
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/3d-shahjabir)](https://3d-shahjabir.vercel.app)
