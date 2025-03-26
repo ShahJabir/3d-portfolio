@@ -4,7 +4,7 @@
 
 <div align="center">
 
-⚡️ [![GitHub](https://img.shields.io/github/license/ShahJabir/3d-portfolio?color=blue)](https://github.com/ShahJabir/3d-portfolio/blob/main/LICENSE)
+⚡️ [![GitHub](https://img.shields.io/github/license/ShahJabir/3d-portfolio?color=black)](https://github.com/ShahJabir/3d-portfolio/blob/main/LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/ShahJabir/3d-portfolio)
 ![GitHub forks](https://img.shields.io/github/forks/ShahJabir/3d-portfolio)
 
@@ -119,4 +119,4 @@ Once your server has started, go to this url `http://localhost:{PORT}/` to see t
 
 ## <a name="status"> Status</a>
 
-[![Deploy static content to Pages](https://github.com/ShahJabir/3d-portfolio/actions/workflows/main.yml/badge.svg)](https://github.com/ShahJabir/3d-portfolio/actions/workflows/main.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6e438efa-ded0-483f-8e8f-5049b711e168/deploy-status)](https://app.netlify.com/sites/3d-shahjabir/deploys)
