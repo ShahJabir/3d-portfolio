@@ -10,12 +10,23 @@ const DevWorkPage = () => {
           title: "Development Work",
           quote:
             "Transforming visionary designs into seamless digital realities.",
-          content: [
-            "Our development side is where innovation meets execution, transforming creative concepts into interactive, functional, and technically sound digital experiences. While our design team focuses on the aesthetics and emotional depth of architecture, our development team ensures that these visions are translated seamlessly into interactive and dynamic experiences.",
-            "From parametric modeling tools to custom-built interactive platforms, we empower architects with the ability to explore their designs beyond static imagery. Leveraging the latest in WebGL, Three.js, Unreal Engine, and Blender, we create digital environments that architects can navigate, manipulate, and refine in real time.",
-            "By integrating optimized rendering engines, efficient asset management systems, and real-time lighting calculations, we ensure that every interactive experience is as fluid and responsive as it is visually compelling. We also pioneer the use of cloud-based architectural collaboration tools, enabling real-time feedback and iterative design refinement with stakeholders across the globe.",
-            "With expertise in computational design scripting, BIM integrations, and procedural generation, we build custom digital tools that allow architects to generate, analyze, and refine complex forms with precision. By bridging the gap between design artistry and digital efficiency, we transform abstract concepts into tangible, interactive experiences that elevate the architectural process.",
-          ],
+            content: [
+                "🚀 Web Development Skills",
+                "Frontend (HTML, CSS, JavaScript, React, Next.js)",
+                "Backend (Node.js, Python, Flask, FastAPI, Django)",
+                "Database Management (PostgreSQL, MongoDB, MySQL, Redis,  Prisma)",
+                "DevOps (Docker, Kubernetes, AWS, GCP, Azure, git, GitHub CI/CD, Kafka, RabbitMQ, Nginx, Grafana, Prometheus, Loki, ELK Stack)",
+                "API Development (REST, GraphQL)",
+                "AI Integration (OpenAI, Google Cloud AI, Hugging Face)",
+                "Web Security (OWASP Top 10, SAST, DAST, IAST, RASP)",
+                "🚀 AI Development Skills: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, AI Ethics and Safety",
+                "💻 Notable Projects:",
+                "NeuroVid – A full-featured browser-based video recording and management platform built with Next.js, Prisma, and Bun.",
+                "Noor Garments E-Commerce – A scalable e-commerce solution with an admin dashboard, 3D product viewer, sales analytics, and scraping module.",
+                "PortaNest – A container orchestration dashboard to manage Docker/Kubernetes clusters with built-in Prometheus + Grafana monitoring.",
+                "InsightBoard – Real-time error tracking and APM (Application Performance Monitoring) web dashboard for web apps.",
+                "ScanSecure – Web vulnerability scanner and report generator using Flask, GraphQL, and Socket.IO for live security insights."
+              ],
         }}
         imageSrc={"/images/dev.webp"}
       />

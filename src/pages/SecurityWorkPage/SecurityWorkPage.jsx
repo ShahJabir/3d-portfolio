@@ -10,10 +10,22 @@ const SecurityWorkPage = () => {
           title: "Security Work",
           quote: "The best cybersecurity is more than protection; it’s resilience.",
           content: [
-            "At Secure Sphere, Cybersecurity is more than just a line of defense—it’s an ongoing dialogue between trust and innovation. Our philosophy centers around building resilient digital ecosystems that adapt, evolve, and safeguard against the ever-changing threat landscape. With a foundation rooted in precision, vigilance, and foresight, we specialize in proactive threat mitigation, end-to-end encryption solutions, and advanced security architectures that empower organizations to operate without compromise. For us, cybersecurity isn’t just about protection; it’s about enabling confidence in a digital world.",
-            "Leveraging the latest advancements in AI-driven threat detection, zero-trust frameworks, and intelligent automation, we craft solutions that are as dynamic as the threats they combat. From penetration testing and vulnerability assessments to real-time monitoring and incident response, our expertise ensures that every layer of your digital infrastructure is fortified. We believe technology should enhance security without complexity, which is why we integrate seamlessly into your operations, delivering robust defenses that are intuitive and scalable.",
-            "Our approach balances technical excellence with a human-centric mindset, acknowledging that security is not just about systems—it’s about people. Whether securing a critical infrastructure network, implementing DevSecOps pipelines, or building AI-powered threat intelligence platforms, we ensure every solution is designed with precision and purpose. This commitment to safeguarding digital spaces while fostering innovation has positioned us as a trusted partner in today’s cybersecurity landscape.",
-            "At our core, we believe great cybersecurity isn’t just about preventing breaches—it’s about creating a secure foundation for growth, innovation, and trust. Through a symphony of technological expertise, adaptive strategies, and relentless vigilance, we continue to redefine what it means to protect the digital realm—helping organizations not just defend their systems but thrive in a connected world."
+            "🛡️ Cybersecurity Skills",
+            "Domains: Web Security, Network Security, Red Teaming, Blue Teaming, Threat Hunting, Malware Analysis, Cloud Security, OSINT, Secure Dev",
+            "Concepts & Frameworks: OWASP Top 10, MITRE ATT&CK, NIST, ISO 27001, Threat Modeling, Zero Trust, CVSS, Secure SDLC",
+            "Tools: Burp Suite, Nmap, Metasploit, OWASP ZAP, Nikto, Gobuster, Autopsy, Volatility, Ghidra, Wireshark, yara, Splunk, Suricata, Wazuh, Sigma, ELK",
+            "Cloud & Infra Security: AWS Security Hub, Azure Defender, GCP Security Scanner, Nessus, Shodan",
+            "CTF & Labs: Hack The Box, TryHackMe, PortSwigger, VulnHub, PicoCTF",
+            "Certifications: TryHackMe – Cyber Defense, Offensive Pentesting, Threat Hunting, Red Teaming",
+            "📂 Notable Projects:",
+            "DNSProbeX – DNS vulnerability scanner for zone transfers, wildcard abuse & misconfig detection with reporting module.",
+            "NetworkGuard – Raspberry Pi-based LAN intrusion detection system with real-time alerting and MAC filtering.",
+            "OWASP-Auditor – Automated OWASP Top 10 testing CLI integrated with GitHub Actions for secure CI/CD workflows.",
+            "LogAnalyzer 360 – Log forensics & brute force detection engine with ELK-based visual dashboard.",
+            "SecureDev Framework – Security-focused middleware toolkit enforcing validation, auth, and protections in Python/Node apps.",
+            "Community & Research:",
+            "Cybersecurity Knowledge Base – GitHub repo with in-depth coverage of OS, Networking, Cryptography, Binary Exploitation, and more.",
+            "Cybersecurity Community Lead – Built and moderate a Discord group that hosts internal CTFs and shares daily threat insights."
           ],
         }}
         imageSrc={"/images/security.jpg"}
